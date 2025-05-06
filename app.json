@@ -20,7 +20,7 @@
         "applinks:tangiblink.io"
       ],
       "config": {
-        "googleMapsApiKey": "AIzaSyAjvXYQ1hGZlGwJubtUhAwvSQ4qJGknHq0"
+        "googleMapsApiKey": ""
       },
       "infoPlist": {
         "LSApplicationQueriesSchemes": [
@@ -53,7 +53,7 @@
       ],
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyBpYUKw5y_PGpWYKE1UsoSXQWWziMoDV3I"
+          "apiKey": ""
         }
       },
       "permissions": [
